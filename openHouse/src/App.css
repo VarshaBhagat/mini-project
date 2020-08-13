@@ -1,0 +1,45 @@
+.header {
+  display: flex;
+  align-items: center;
+}
+.search-header {
+  color: #ff4400;
+  margin-right: 10px;
+}
+
+.input {
+  width: 600px;
+  height: 35px;
+}
+
+.container {
+  padding: 30px;
+}
+body {
+  background: #8080803b;
+}
+
+.image {
+  height: 100px;
+  width: 100px;
+  padding-right: 20px;
+  border-radius: 5px;
+}
+
+.item-container {
+  display: flex;
+  padding: 30px;
+}
+.anchor-tag {
+  text-decoration: none;
+  color: black;
+}
+
+.desc {
+  width: 700px;
+  margin: 0 auto;
+}
+
+.item-header {
+  margin: 10px auto;
+}
