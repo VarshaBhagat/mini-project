@@ -1,0 +1,16 @@
+.header {
+  width: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.header h1 {
+  margin: 0;
+}
+#content {
+  height: 50px;
+}
+.close-icon {
+  height: 20px;
+  cursor: pointer;
+}
